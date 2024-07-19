@@ -61,15 +61,15 @@ By integrating data-driven approaches into their decision-making processes, airl
 
 
 ### How to Run
-Clone this repository.
-Install the required dependencies.
-Run the scripts for each project as described in their respective sections.
+- Clone this repository.
+- Install the required dependencies.
+- Run the scripts for each project as described in their respective sections.
 bash
-Copy code
-git clone <repository_url>
-cd <repository_name>
-pip install -r requirements.txt
-python <script_name.py>
+- Copy code
+- git clone <repository_url>
+- cd <repository_name>
+- pip install -r requirements.txt
+- python <script_name.py>
 
 License
 This repository is licensed under the MIT License. See the LICENSE file for more details.
